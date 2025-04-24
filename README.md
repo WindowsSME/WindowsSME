@@ -16,7 +16,7 @@ Welcome to my GitHub space! This is where I catalog and showcase my scripting wo
 
 ---
 
-## 📁 Featured Work
+## 📁 Featured Repositories
 
 ### [Windows Endpoint Tools](https://github.com/WindowsSME/WindowsEndpointTools)  
 > 💻 A collection of diagnostic and reporting scripts for Windows endpoints — including local user audits, device info, and system health checks.
