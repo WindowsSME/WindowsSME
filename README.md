@@ -33,11 +33,12 @@ Welcome to my GitHub space! This is where I catalog and showcase my scripting wo
 
 ## 🌐 Connect With Me
 
-- [👤 LinkedIn](https://www.linkedin.com/in/jamesromeogaspar/)
-- [🏆 Credly](https://www.credly.com/users/james-romeo-gaspar)
-- [🎨 Behance](https://www.behance.net/jaroga)
-- [🏠 Website](https://www.jamesgaspar.com)
-
+<ul>
+  <li><a href="https://www.linkedin.com/in/jamesromeogaspar/" target="_blank">👤 LinkedIn</a></li>
+  <li><a href="https://www.credly.com/users/james-romeo-gaspar" target="_blank">🏆 Credly</a></li>
+  <li><a href="https://www.behance.net/jaroga" target="_blank">🎨 Behance</a></li>
+  <li><a href="https://www.jamesgaspar.com" target="_blank">🏠 Website</a></li>
+</ul>
 
 ---
 
