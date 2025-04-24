@@ -33,10 +33,10 @@ Welcome to my GitHub space! This is where I catalog and showcase my scripting wo
 
 ## 🌐 Connect With Me
 
-- [👤 LinkedIn](https://www.linkedin.com/in/jaroga/)
-- [🏆 Credly](https://www.credly.com/users/james-romeo-gaspar)
-- [🎨 Behance](https://www.behance.net/jaroga)
 - [🏠 Website](https://www.jamesgaspar.com)
+- [💼 LinkedIn](https://www.linkedin.com/in/jaroga/)
+- [🎨 Behance](https://www.behance.net/jaroga)
+- [🏆 Credly](https://www.credly.com/users/james-romeo-gaspar)
 
 ---
 
