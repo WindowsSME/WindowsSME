@@ -1,4 +1,4 @@
-# 👋 Hello fellow coder, I'm James Romeo — aka **WindowsSME**
+# 👋 Hello fellow coder, I'm James Romeo — aka **The $cript $cribe** 
 
 **Windows Endpoint Specialist | PowerShell Developer | Microsoft 365 Administrator | IT Analyst | Automation Enthusiast**
 
