@@ -1,4 +1,4 @@
-# 👋 Hello, I'm James — aka **WindowsSME**
+# 👋 Hello fellow coder, I'm James — aka **WindowsSME**
 
 **Windows Endpoint Specialist | PowerShell Developer | Microsoft 365 Administrator | IT Analyst | Automation Enthusiast**
 
