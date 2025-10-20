@@ -1,4 +1,4 @@
-# 👋 Hello fellow coders, I'm James Romeo —
+# 👋 Hello fellow coders, I'm James Romeo
 
 **Windows Endpoint Specialist | PowerShell Developer | Microsoft 365 Administrator | IT Analyst | Automation Enthusiast**
 
